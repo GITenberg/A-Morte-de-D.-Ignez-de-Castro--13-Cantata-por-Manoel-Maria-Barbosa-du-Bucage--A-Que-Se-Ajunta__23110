@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8542
     wikipedia: http://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23110#A-Morte-de-D.-Ignez-de-Castro--13-Cantata-por-Manoel-Maria-Barbosa-du-Bucage--A-Que-Se-Ajunta_
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
