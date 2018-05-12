@@ -1,0 +1,45 @@
+_repo: A-Morte-de-D.-Ignez-de-Castro--13-Cantata-por-Manoel-Maria-Barbosa-du-Bucage--A-Que-Se-Ajunta__23110
+_version: 0.1.0
+alternative_title: "A Morte de D. Inês de Castro\r\nCantata por Manuel Maria Barbosa\
+  \ du Bucage; A Que Se Ajunta o Episódio, Ao Mesmo Assunto, do Imortal Luís de Camões"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Camões, Luís de
+    aliases:
+    - Camoes, Luis de
+    - Camões,  Luís Vas de
+    - Camões, Luís Vaz de
+    deathdate: 1580
+    gutenberg_agent_id: '1183'
+    url: http://www.gutenberg.org/2009/agents/1183
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Lu%C3%ADs_Vaz_de_Cam%C3%B5es
+    - http://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es
+  - agent_name: Bocage, Manuel Maria Barbosa du
+    birthdate: 1765
+    deathdate: 1805
+    gutenberg_agent_id: '8542'
+    url: http://www.gutenberg.org/2009/agents/8542
+    wikipedia: http://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23110'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced by Tiago Tejo
+publication_note: "Lisboa:\r\nTypographia Rollandiana\r\n1824"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Castro, Inês de, -1355 -- Poetry'
+title: "A Morte de D. Ignez de Castro\r\nCantata por Manoel Maria Barbosa du Bucage;\
+  \ A Que Se Ajunta o Episódio, Ao Mesmo Assumpto, do Immortal Luiz de Camões"
+url: http://www.gutenberg.org/ebooks/23110
